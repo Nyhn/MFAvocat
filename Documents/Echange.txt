@@ -1,2 +1,9 @@
+[Doc modifiable] :	Echange.txt
+			Compte rendu de Réunion du 13-01-21.txt
+
+
 [Geo] - J'ai créé ce fichier pour quelconque échange, requête que tu veux me soumettre ! Il suffit juste d'éditer ce fichier!
 	Attention je te préviens tout est en accès publique (formation oblige). Je prendrai soins à ne jamais partager de doc/ données sensibles. 
+	Je t'expliquerai comment utiliser GitHub quand on se verra! 
+	
+	Je te Listerai en haut tout document que tu peux modifier, corriger, apporter des précisions.
