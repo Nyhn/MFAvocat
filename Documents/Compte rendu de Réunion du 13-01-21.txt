@@ -1,0 +1,56 @@
+Réunion de démarrage sur zoom
+13/01/2021 
+Participant : 
+Dubois Geoffrey, Maitre d'ouvrage, Développeur d'appli
+Mylène F., Maitre d'oeuvre, Avocate
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Objectif initial :
+
+Lister les tâches d'un avocat, la routine.
+Détecter les tâches rébarbatives.
+Comprendre leur fonctionnement.
+Définir les fonctionnalités pouvant apportés une aide, simplification, réduction, précision dans les tâches.
+etc.
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Compte rendu. 
+
+Outils utilisés par le client :
+	Kleos : Logiciel de gestion.
+		Conserve l'ensemble des documents sur le cloud
+		Création de Documents / modèles (Acte, facture, convention d'honoraire, contrat, etc)
+			Puis modification manuelle des données
+
+	Gmail : utilisation non automatiser de mail
+
+Outils et/ou fonctionnalités rejetés
+	Gestion du dossier : Volonté de continuer sur kleos, et de ne pas partager les documents, jugements au client via l'application.
+	
+	Gestion de frais :	Pas d'intêret, La facturation est issu d'un dialogue entre l'avocat et son client, Pas de tarifs fini.
+				Utilisation de Forfait, Rarement au temps passé
+	
+	Gestion automatique des mails (ex : relance) :	abandonné car le logiciel n'aura pas accès au donnée du dossier
+	
+	Gestion d'équipe : Pas d'équipe et non prévu.
+	
+	Questionnaire intelligent pour le remplissage automatique de document : Non pertinet car utile pour un seul document au modification légère.
+	
+Outils et/ou Fonctionnalités acceptés :
+	Gestion de tâche : Agenda, rdv
+	
+	Prise de Rendez-vous en ligne :	Choisir un horaire libre pour demander un rendez-vous
+					Annulation possible ( Attention une clause peu être prévue pour refusé une annulation de XX h avant le rdv)
+					Type : Présentiel ou visio
+					Motif
+					
+	Ajout d'un payement en ligne pour régler : Facture, prestation,...
+	
+	Gestion de client :	Accès du client à un compte personnel pouvant :
+										Consulter ses factures (payés ou non)
+										Transmettre des documents
+										Consulter la liste de ses rendez-vous(Fini ou à venir)
+										Prendre un rendez-vous / annuler / modifier ( selon clause, et disponibilité)
+
