@@ -27,4 +27,30 @@ Outils utilisés par le client :
 	Gmail : utilisation non automatiser de mail
 
 Outils et/ou fonctionnalités rejetés
+	Gestion du dossier : Volonté de continuer sur kleos, et de ne pas partager les documents, jugements au client via l'application.
+	
+	Gestion de frais :	Pas d'intêret, La facturation est issu d'un dialogue entre l'avocat et son client, Pas de tarifs fini.
+				Utilisation de Forfait, Rarement au temps passé
+	
+	Gestion automatique des mails (ex : relance) :	abandonné car le logiciel n'aura pas accès au donnée du dossier
+	
+	Gestion d'équipe : Pas d'équipe et non prévu.
+	
+	Questionnaire intelligent pour le remplissage automatique de document : Non pertinet car utile pour un seul document au modification légère.
+	
+Outils et/ou Fonctionnalités acceptés :
+	Gestion de tâche : Agenda, rdv
+	
+	Prise de Rendez-vous en ligne :	Choisir un horaire libre pour demander un rendez-vous
+					Annulation possible ( Attention une clause peu être prévue pour refusé une annulation de XX h avant le rdv)
+					Type : Présentiel ou visio
+					Motif
+					
+	Ajout d'un payement en ligne pour régler : Facture, prestation,...
+	
+	Gestion de client :	Accès du client à un compte personnel pouvant :
+										Consulter ses factures (payés ou non)
+										Transmettre des documents
+										Consulter la liste de ses rendez-vous(Fini ou à venir)
+										Prendre un rendez-vous / annuler / modifier ( selon clause, et disponibilité)
 
