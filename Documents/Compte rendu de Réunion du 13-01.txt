@@ -1,0 +1,30 @@
+Réunion de démarrage sur zoom
+13/01/2021 
+Participant : 
+Dubois Geoffrey, Maitre d'ouvrage, Développeur d'appli
+Mylène F., Maitre d'oeuvre, Avocate
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Objectif initial :
+
+Lister les tâches d'un avocat, la routine.
+Détecter les tâches rébarbatives.
+Comprendre leur fonctionnement.
+Définir les fonctionnalités pouvant apportés une aide, simplification, réduction, précision dans les tâches.
+etc.
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Compte rendu. 
+
+Outils utilisés par le client :
+	Kleos : Logiciel de gestion.
+		Conserve l'ensemble des documents sur le cloud
+		Création de Documents / modèles (Acte, facture, convention d'honoraire, contrat, etc)
+			Puis modification manuelle des données
+
+	Gmail : utilisation non automatiser de mail
+
+Outils et/ou fonctionnalités rejetés
+
